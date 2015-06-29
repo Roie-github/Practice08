@@ -1,0 +1,12 @@
+C:\Users\Shery\Desktop\excessfile\Practice08\Practice08.Web\DataRepository\obj\Debug\DataRepository.csprojResolveAssemblyReference.cache
+C:\Users\Shery\Desktop\excessfile\Practice08\Practice08.Web\DataRepository\bin\Debug\DataRepository.dll.config
+C:\Users\Shery\Desktop\excessfile\Practice08\Practice08.Web\DataRepository\bin\Debug\DataRepository.dll
+C:\Users\Shery\Desktop\excessfile\Practice08\Practice08.Web\DataRepository\bin\Debug\DataRepository.pdb
+C:\Users\Shery\Desktop\excessfile\Practice08\Practice08.Web\DataRepository\bin\Debug\EntityFramework.dll
+C:\Users\Shery\Desktop\excessfile\Practice08\Practice08.Web\DataRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shery\Desktop\excessfile\Practice08\Practice08.Web\DataRepository\bin\Debug\Models.dll
+C:\Users\Shery\Desktop\excessfile\Practice08\Practice08.Web\DataRepository\bin\Debug\Models.pdb
+C:\Users\Shery\Desktop\excessfile\Practice08\Practice08.Web\DataRepository\bin\Debug\EntityFramework.xml
+C:\Users\Shery\Desktop\excessfile\Practice08\Practice08.Web\DataRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shery\Desktop\excessfile\Practice08\Practice08.Web\DataRepository\obj\Debug\DataRepository.dll
+C:\Users\Shery\Desktop\excessfile\Practice08\Practice08.Web\DataRepository\obj\Debug\DataRepository.pdb
