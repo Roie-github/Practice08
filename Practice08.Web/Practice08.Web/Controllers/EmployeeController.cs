@@ -62,7 +62,7 @@ namespace Practice08.Web.Controllers
             }
 
             //set pagesize and pagenumber
-            int pageSize = 10;
+            int pageSize = 5;
             int pageNumber = (page ?? 1);
 
 
