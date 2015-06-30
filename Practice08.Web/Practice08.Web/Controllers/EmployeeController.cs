@@ -165,6 +165,7 @@ namespace Practice08.Web.Controllers
         [ActionName("InsertDepartments")]
         public ActionResult InsertDepartments_Post()
         {
+
             DepartmentRepository dr = new DepartmentRepository();
             Department d1 = new Department
             {
