@@ -15,6 +15,5 @@ C:\Users\Shery\Source\Repos\Practice08\Practice08.Web\Models\bin\Debug\EntityFra
 C:\Users\Shery\Source\Repos\Practice08\Practice08.Web\Models\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Shery\Source\Repos\Practice08\Practice08.Web\Models\bin\Debug\EntityFramework.xml
 C:\Users\Shery\Source\Repos\Practice08\Practice08.Web\Models\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Shery\Source\Repos\Practice08\Practice08.Web\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
 C:\Users\Shery\Source\Repos\Practice08\Practice08.Web\Models\obj\Debug\Models.dll
 C:\Users\Shery\Source\Repos\Practice08\Practice08.Web\Models\obj\Debug\Models.pdb

@@ -29,7 +29,11 @@ namespace DataRepository
 
         public void InsertOnSubmit(Department entity)
         {
-            throw new NotImplementedException();
+            using (var db = new EmployeeDbContext())
+            {
+                db.Departments.Add(entity);
+                db.SaveChanges();
+            }
         }
 
         public void UpdateOnSubmit(Department entity)

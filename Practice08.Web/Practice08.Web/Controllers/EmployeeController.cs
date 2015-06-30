@@ -155,5 +155,32 @@ namespace Practice08.Web.Controllers
 
         }
 
+        [HttpGet]
+        [ActionName("InsertDepartments")]
+        public ActionResult InsertDepartments()
+        {
+            return View();
+        }
+        [HttpPost]
+        [ActionName("InsertDepartments")]
+        public ActionResult InsertDepartments_Post()
+        {
+            DepartmentRepository dr = new DepartmentRepository();
+            Department d1 = new Department
+            {
+                DepartmentId = 1,
+                DepartmentName = "BS Math"
+            };
+            Department d2 = new Department
+            {
+                DepartmentId = 2,
+                DepartmentName = "BS Science"
+            };
+            dr.InsertOnSubmit(d2);
+
+            return View();
+
+        }
+
     }
 }
