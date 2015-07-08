@@ -177,6 +177,7 @@ namespace Practice08.Web.Controllers
                 DepartmentId = 2,
                 DepartmentName = "BS Science"
             };
+            dr.InsertOnSubmit(d1);
             dr.InsertOnSubmit(d2);
 
             return View();
