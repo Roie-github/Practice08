@@ -105,6 +105,7 @@ namespace Practice08.Web.Controllers
             e.DepartmentList = new DepartmentRepository().GetAll();
             return View(e);
         }
+
        
 
         public ActionResult Details(int id)
